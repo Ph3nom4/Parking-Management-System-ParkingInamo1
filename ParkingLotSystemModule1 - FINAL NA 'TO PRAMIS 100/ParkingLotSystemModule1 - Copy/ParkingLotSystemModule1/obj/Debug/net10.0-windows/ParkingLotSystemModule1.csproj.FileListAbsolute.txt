@@ -1,0 +1,350 @@
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Phenom\source\repos\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\janma\OneDrive\Desktop\ParkingLotSystemModule1\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Phenom\Downloads\MODULE 2.1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - Copy4(updated)\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule123 - V2\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\ANJO\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Phenom\Desktop\ParkingInamo\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Phenom\Desktop\ParkingInamo - Copy\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\josh\source\repos\Programs\ParkingInamo - Design\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Phenom\Desktop\Parking ng Ina mo - UI v2 BALIW\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Administrator\Documents\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\josh\Downloads\ParkingLotSystemModule1 - 66\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINALIZE 1 ERROR FORM NAMES\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\josh\OneDrive\Desktop\ParkingLotSystemModule1 - FINAL ATA V1\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.exe
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.deps.json
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.runtimeconfig.json
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\bin\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form1.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form2.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Form3.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.ParkingSlot.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.adminlogin.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.rates.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Properties.Resources.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.Start.resources
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.GenerateResource.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfoInputs.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.AssemblyInfo.cs
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.csproj.CoreCompileInputs.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\refint\ParkingLotSystemModule1.dll
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.pdb
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ParkingLotSystemModule1.genruntimeconfig.cache
+C:\Users\Phenom\Desktop\ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS\ParkingLotSystemModule1 - Copy\ParkingLotSystemModule1\obj\Debug\net10.0-windows\ref\ParkingLotSystemModule1.dll
