@@ -7,6 +7,11 @@ Features:
 - Parking Lot Visual form shows real time slot available and occupied space
 - Manage System Form allows removal and editing of Vehicle parked in Main Dgv
 
+How to Open 
+- Open ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS 100 
+- open ParkingLotSystemModule1 - Copy in Visual Studio
+
+
 <img width="800" height="450" alt="Start1" src="https://github.com/user-attachments/assets/5f75409f-b729-441f-9f7c-54dc054a6f22" />
 
 <img width="1246" height="603" alt="Main1" src="https://github.com/user-attachments/assets/142414b4-75f4-438c-8ea9-7b565cabdc92" />
