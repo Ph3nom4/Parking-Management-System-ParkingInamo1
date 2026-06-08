@@ -11,6 +11,9 @@ How to Open
 - Open ParkingLotSystemModule1 - FINAL NA 'TO PRAMIS 100 
 - open ParkingLotSystemModule1 - Copy in Visual Studio
 
+Credits:
+Jxo
+Ph3nom
 
 <img width="800" height="450" alt="Start1" src="https://github.com/user-attachments/assets/5f75409f-b729-441f-9f7c-54dc054a6f22" />
 
